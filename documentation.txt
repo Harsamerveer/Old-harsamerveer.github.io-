@@ -1,0 +1,21 @@
+
+OpenAI ChatGPTModel Documentation
+This documentation provides a guide on how to interact with the OpenAI ChatGPTModel using a front-end HTML and CSS interface, along with a back-end Python and Flask server.
+
+Prerequisites
+Python installed on your machine.
+OpenAI API key for accessing the ChatGPTModel API.
+Setup
+Project Structure
+
+Set up the project structure as follows:
+
+arduino
+Copy code
+/ChatGPTDocumentation
+├── public
+│   ├── MyChatBot.py
+│   ├── config.py
+│   └── aiapi.py
+│   └── templates -> 404.html -> ChatBot.html
+└── documentation.txt
